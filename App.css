@@ -1,0 +1,40 @@
+body{
+  background:  #79dfce;
+}
+
+.container{
+  width: 30%;
+  display: inline;
+  text-align: center;
+  margin-top: 60px;
+  background-color: azure;
+  border-radius: 9px;
+}
+
+.headerName{
+ padding-top: 10px;
+}
+.todoList{
+ border: 1px solid #566d;
+ border-radius: 30px;
+}
+.inputTask{
+  width: 40%;
+  border: 2px solid #79dfce ;
+  border-radius: 20px;
+  padding: 9px;
+  margin: 20px;
+}
+.inputTask:hover{
+  border: 2px solid #636363 ;
+}
+  
+
+.taskbtn{
+  background-color: #000000;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 9px;
+
+}
